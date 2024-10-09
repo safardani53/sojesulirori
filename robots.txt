@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sojesulirori.pages.dev/sitemap.xml
